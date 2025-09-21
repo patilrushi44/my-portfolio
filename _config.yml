@@ -63,7 +63,7 @@ plugins:
 # Navigation links
 navigation:
   - title: "About Me"
-    url: "/"
+    url: "/about.markdown/"
   - title: "Projects"
     url: "/projects/"
   - title: "Skills"
