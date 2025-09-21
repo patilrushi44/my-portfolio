@@ -49,8 +49,8 @@
 title: Techwriter Rushikesh
 email: patilrushi44@gmail.com
 description: "Welcome to my portfolio portal. I am Rushikesh Patil."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: ""     # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/my-portfolio" # the subpath of your site, e.g. /blog
+url: "https://patilrushi44.github.io"     # the base hostname & protocol for your site, e.g. http://example.com
 
 twitter_username: patilrushi44
 github_username: patilrushi44
